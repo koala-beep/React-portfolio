@@ -4,17 +4,19 @@ let resumeData = {
   role: "Senior Blockchain && Frontend Developer",
   linkedinId: "cheeyongchang-73910fc",
   skypeid: "live:.cid.6857fa7100874173",
+  email: "cheeyongchang1123@outlook.sg",
+  discord: "cheeyongchang",
   roleDescription: "Fast Learner, Good Communicator",
   socialLinks: [
-    {
-      name: "linkedin",
-      url: "https://www.linkedin.com/in/cheeyongchang-67ba08121/",
-      className: "fa fa-linkedin",
-    },
     {
       name: "github",
       url: "http://github.com/Talent971123",
       className: "fa fa-github",
+    },
+    {
+      name: "discord",
+      url: "http://github.com/Talent971123",
+      className: "fab fab-discord",
     },
   ],
   aboutme:
@@ -94,34 +96,41 @@ let resumeData = {
   ],
   portfolio: [
     {
-      name: "project1",
-      description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg",
+      name: "Work in VERIPARK Team",
+      description: "https://streamer.com.au/",
+      imgurl: "images/portfolio/portfolio1.PNG",
     },
     {
-      name: "project2",
-      description: "mobileapp",
-      imgurl: "images/portfolio/project.jpg",
+      name: "Work in VERIPARK Team",
+      description: "https://streamer.com.au/",
+      imgurl: "images/portfolio/portfolio2.PNG",
     },
     {
-      name: "project3",
-      description: "mobileapp",
-      imgurl: "images/portfolio/project2.png",
+      name: "Work in VERIPARK Team",
+      description: "https://streamer.com.au/",
+      imgurl: "images/portfolio/portfolio3.PNG",
     },
     {
-      name: "project4",
-      description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg",
+      name: "Work in VERIPARK Team",
+      description: "https://streamer.com.au/",
+      imgurl: "images/portfolio/portfolio4.PNG",
+    },
+    {
+      name: "Work in Codevate Team",
+      description: "https://www.botb.com/",
+      imgurl: "images/portfolio/portfolio5.PNG",
     },
   ],
   testimonials: [
     {
-      description: "This is a sample testimonial",
-      name: "Some technical guy",
+      description:
+        "I have worked with Chang on many complex projects and in both cases, the work was done on time, on budget, and with a high degree of professionalism.Across the board, everyone enjoyed working with Ian. Ian not only did exceptional work based on the specs we gave him for each project, but he also gave input on how to make the end product even better and cared about how users would engage with the builds. I will be using Ian again in the future and would highly recommend his services to anyone",
+      name: "Jay Bhatti Group VERIPARK",
     },
     {
-      description: "This is a sample testimonial",
-      name: "Some technical guy",
+      description:
+        "Working with Chang was better than expected and we had really high expectations. He is an incredibly talented developer but what really makes him stand out is his work ethic and steady approach. Time after time, and without us asking, he added enhancements and improvements that resulted in a better end product for us and our clients.",
+      name: "Adam Houston Group Codevate",
     },
   ],
 };
