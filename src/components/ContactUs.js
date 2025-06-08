@@ -16,7 +16,6 @@ export default class ContactUs extends Component {
             <div className="widget">
               <h4>Email : {resumeData.email}</h4>
               <h4>discord : {resumeData.discord}</h4>
-              <h4>skype : {resumeData.skypeid}</h4>
             </div>
           </aside>
         </div>
