@@ -124,13 +124,13 @@ let resumeData = {
     {
       name: "Work in SAS",
       description: "Worked as a full-stack engineer on Nutrition Warehouse’s Shopify-based e-commerce platform, building custom backend services for order processing, Click & Collect, and loyalty features. Developed dynamic React front-end interfaces and integrated tools like Klaviyo for personalized marketing—boosting ROI and supporting performance across 100+ stores and online channels.",
-      imgurl: "images/portfolio/portfolio6.PNG",
+      imgurl: "images/portfolio/portfolio6.png",
       linkUrl: "https://www.nutritionwarehouse.com.au/"
     },
     {
       name: "Work in SAS",
       description: "Worked as a full-stack engineer on Nutrition Warehouse’s Shopify-based e-commerce platform, building custom backend services for order processing, Click & Collect, and loyalty features. Developed dynamic React front-end interfaces and integrated tools like Klaviyo for personalized marketing—boosting ROI and supporting performance across 100+ stores and online channels.",
-      imgurl: "images/portfolio/portfolio7.PNG",
+      imgurl: "images/portfolio/portfolio7.png",
       linkUrl: "https://www.nutritionwarehouse.com.au/"
     },
   ],
